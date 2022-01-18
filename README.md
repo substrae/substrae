@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 
 # Nice to meet you!
 
-- 🔭 I’m currently working with the Government of Canada on [hiring tools](https://github.com/GCTC-NTGC) and [design systems](https://github.com/cds-snc)
-- ✨ I'm building an open-source CSS framework called [Hydrogen](https://hydrogen.design)
+- 🔭 I’m currently working with the [Government of Canada](https://canada.ca/) on [hiring tools](https://github.com/GCTC-NTGC) and [design systems](https://github.com/cds-snc)
+- ✨ I'm building an open-source CSS utility framework called [Hydrogen](https://hydrogen.design)
 - 😄 Pronouns: he/him 🏳️‍🌈
