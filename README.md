@@ -18,4 +18,3 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working with the [Government of Canada](https://canada.ca/) on [hiring tools](https://github.com/GCTC-NTGC) and [design systems](https://github.com/cds-snc)
 - ✨ I'm building an open-source CSS utility framework called [Hydrogen](https://hydrogen.design)
 - ✨ I also built and maintain the [FFXIV Pocket Guide](https://ffxiv.guide), which is on hiatus
-- 😄 Pronouns: he/him/his 🏳️‍🌈
